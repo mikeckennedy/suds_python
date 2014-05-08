@@ -1,7 +1,8 @@
 suds for Python
 ===========
 
-Imported from fedorahosted by Michael Kennedy
+Imported from fedorahosted 
+
 I'm hoping to keep this going and get it working on Python 3
 (help appreciated)
 
